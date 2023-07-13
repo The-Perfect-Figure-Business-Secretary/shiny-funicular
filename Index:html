@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/organizations/The-Perfect-Figure-Business-Secretary/blondiHTML</id>
+  <link type="text/html" rel="alternate" href="https://github.com/organizations/The-Perfect-Figure-Business-Secretary/blondiHTML"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/organizations/The-Perfect-Figure-Business-Secretary/blondiHTML.private.atom?token=BAFE2IWEOHKCUV4UOVPMI66CXVN4K"/>
+  <title>Private Feed for the The-Perfect-Figure-Business-Secretary Organization</title>
+  <updated>2023-07-13T14:34:28Z</updated>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/30403196986</id>
+    <published>2023-07-13T14:34:28Z</published>
+    <updated>2023-07-13T14:34:28Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/The-Perfect-Figure-Business-Secretary/solid-octo-spork/compare/0571d7b708...395c3e20d5"/>
+    <title type="html">blondiHTML pushed to main in The-Perfect-Figure-Business-Secretary/solid-octo-spork</title>
+    <author>
+      <name>blondiHTML</name>
+      <uri>https://github.com/blondiHTML</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/134892834?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;push js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:666025730,&amp;quot;actor_id&amp;quot;:134892834,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;PushEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:30403196986,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:139476670,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:134892834,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;58346ca5-4813-4b92-b7e1-54f565b2bbd4&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/organizations/The-Perfect-Figure-Business-Secretary/blondiHTML.private.atom?token=BAFE2IWEOHKCUV4UOVPMI66CXVN4K&amp;quot;}}&quot; data-hydro-view-hmac=&quot;4fde956ce3799f3db8d906d5c17684213a3cdafc88d09603c5be6cdc629684c4&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/blondiHTML&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/134892834?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@blondiHTML&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/blondiHTML&quot; rel=&quot;noreferrer&quot;&gt;blondiHTML&lt;/a&gt;
+      
+      pushed to
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork&quot; rel=&quot;noreferrer&quot;&gt;The-Perfect-Figure-Business-Secretary/solid-octo-spork&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2023-07-13T14:34:28Z&quot; data-view-component=&quot;true&quot;&gt;July 13, 2023 14:34&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits &quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;img class=&quot;mr-1 avatar-user&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; src=&quot;https://camo.githubusercontent.com/2a5a1de6911020b58fa3db331ea1d5d9308c86bf1ebc6446a6c7f5ae8c37dec3/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f37393434316332316161333136346333636336646539353362653639393631323f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430&quot; data-canonical-src=&quot;https://1.gravatar.com/avatar/79441c21aa3164c3cc6de953be699612?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=g&amp;amp;s=140&quot;&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork/commit/395c3e20d578dc0344a08adb327956e6f6b38027&quot; rel=&quot;noreferrer&quot;&gt;395c3e2&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Create The Perfect Figure Social
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/30403109261</id>
+    <published>2023-07-13T14:31:50Z</published>
+    <updated>2023-07-13T14:31:50Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/The-Perfect-Figure-Business-Secretary/solid-octo-spork//"/>
+    <title type="html">blondiHTML created a repository The-Perfect-Figure-Business-Secretary/solid-octo-spork</title>
+    <author>
+      <name>blondiHTML</name>
+      <uri>https://github.com/blondiHTML</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/134892834?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;repo js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:666025730,&amp;quot;actor_id&amp;quot;:134892834,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:30403109261,&amp;quot;additional_details_shown&amp;quot;:true,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:139476670,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:134892834,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;bfeb8082-ac70-4b4b-8d99-3c71f41ba1eb&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/organizations/The-Perfect-Figure-Business-Secretary/blondiHTML.private.atom?token=BAFE2IWEOHKCUV4UOVPMI66CXVN4K&amp;quot;}}&quot; data-hydro-view-hmac=&quot;45738d8c64b10e2b439817a1c89eb2ce684150d99ac986645dbdc03f97874b35&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/blondiHTML&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/134892834?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@blondiHTML&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/blondiHTML&quot; rel=&quot;noreferrer&quot;&gt;blondiHTML&lt;/a&gt;
+              
+              created a
+              repository
+              
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork&quot; rel=&quot;noreferrer&quot;&gt;The-Perfect-Figure-Business-Secretary/solid-octo-spork&lt;/a&gt;
+
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2023-07-13T14:31:50Z&quot; data-view-component=&quot;true&quot;&gt;July 13, 2023 14:31&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/The-Perfect-Figure-Business-Secretary/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;/The-Perfect-Figure-Business-Secretary&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/139476670?s=40&amp;amp;v=4&quot; alt=&quot;@The-Perfect-Figure-Business-Secretary&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork&quot; rel=&quot;noreferrer&quot;&gt;The-Perfect-Figure-Business-Secretary/solid-octo-spork&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;dashboard-break-word color-fg-muted mt-1 repo-description&quot;&gt;
+            &lt;p&gt;Business-Secretary.js&lt;/p&gt;
+          &lt;/div&gt;
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Jul 13&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/30403109265</id>
+    <published>2023-07-13T14:31:50Z</published>
+    <updated>2023-07-13T14:31:50Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/The-Perfect-Figure-Business-Secretary/solid-octo-spork/compare/main"/>
+    <title type="html">blondiHTML created a branch main in The-Perfect-Figure-Business-Secretary/solid-octo-spork</title>
+    <author>
+      <name>blondiHTML</name>
+      <uri>https://github.com/blondiHTML</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/134892834?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot; data-hydro-view=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;news_feed.event.view&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;event&amp;quot;:{&amp;quot;repo_id&amp;quot;:666025730,&amp;quot;actor_id&amp;quot;:134892834,&amp;quot;public&amp;quot;:true,&amp;quot;type&amp;quot;:&amp;quot;CreateEvent&amp;quot;,&amp;quot;target_id&amp;quot;:null,&amp;quot;id&amp;quot;:30403109265,&amp;quot;additional_details_shown&amp;quot;:false,&amp;quot;grouped&amp;quot;:false},&amp;quot;event_group&amp;quot;:null,&amp;quot;org_id&amp;quot;:139476670,&amp;quot;target_type&amp;quot;:&amp;quot;event&amp;quot;,&amp;quot;user_id&amp;quot;:134892834,&amp;quot;feed_card&amp;quot;:{&amp;quot;card_retrieved_id&amp;quot;:&amp;quot;b2792cc5-d5ae-46d9-8b90-29170b51ae58&amp;quot;},&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/organizations/The-Perfect-Figure-Business-Secretary/blondiHTML.private.atom?token=BAFE2IWEOHKCUV4UOVPMI66CXVN4K&amp;quot;}}&quot; data-hydro-view-hmac=&quot;1cce8ce099419c28beb6dd9e8df9b1b799e59c06725f36f737a2c3981acf6082&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/blondiHTML&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/134892834?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@blondiHTML&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/blondiHTML&quot; rel=&quot;noreferrer&quot;&gt;blondiHTML&lt;/a&gt;
+              
+              created a
+              branch
+              in
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork&quot; rel=&quot;noreferrer&quot;&gt;The-Perfect-Figure-Business-Secretary/solid-octo-spork&lt;/a&gt;
+
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2023-07-13T14:31:50Z&quot; data-view-component=&quot;true&quot;&gt;July 13, 2023 14:31&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium &quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/The-Perfect-Figure-Business-Secretary/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;/The-Perfect-Figure-Business-Secretary&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/139476670?s=40&amp;amp;v=4&quot; alt=&quot;@The-Perfect-Figure-Business-Secretary&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;div class=&quot;d-inline-block&quot;&gt;
+                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;main&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/The-Perfect-Figure-Business-Secretary/solid-octo-spork&quot; rel=&quot;noreferrer&quot;&gt;The-Perfect-Figure-Business-Secretary/solid-octo-spork&lt;/a&gt;
+                  &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Jul 13&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>
